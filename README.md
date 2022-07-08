@@ -6,4 +6,4 @@ Table of Contents
 ## About this repository : 
 This repository includes my work on the electricity track during my training program at Smart Methods Company.
 ## task 1 : electronic circle 
-! [] (https://hacksterio.s3.amazonaws.com/uploads/attachments/1103236/stunning_borwo-elzing_1AxSYIVIKv.png )
+![picture of electrical circuit](![image](https://user-images.githubusercontent.com/108503091/177980447-645aad70-10af-4bd3-bd17-86c70a91ae86.png) )
