@@ -28,4 +28,4 @@ As we now know that energy is the capacity to do work, with the standard unit us
 
 We tend to think of voltage (V) as existing between two different terminals, points or nodes within a circuit or battery supply. But voltage is important as it provides the work needed to move the charge from one point to another, either in a forward direction or a reverse direction. The voltage, or potential difference between two terminals or points is defined as having a value of one volt, when one joule of energy is used in moving one coulomb of electric charge between those two terminals.
 
-In other words, the Voltage difference between two points or terminals is the work required in Joules to move one Coulomb of charge from A to B. Therefore voltage can be expressed as being:
+In other words, the Voltage difference between two points or terminals is the work required in Joules to move one Coulomb of charge from A to B. 
